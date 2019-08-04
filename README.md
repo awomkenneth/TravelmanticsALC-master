@@ -20,12 +20,6 @@ The project also require Java 8 and above.
 ### As a normal user
 To access the app, sign up with your details.
  
-### As an administrator
-To access as an administrator, use the following details
-
-Email: admin@admin.com
-
-Password: rootroot
 
 ## Dependencies
 
